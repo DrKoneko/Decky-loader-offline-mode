@@ -1,3 +1,4 @@
+I hope this helps at least one person out there! Enjoy and thank you for checking this out! ❤️
 # Decky-loader-offline-mode
 A simple script to create a loopback connection on SteamOS, allowing decky loader to launch even when offline!
 
@@ -30,5 +31,3 @@ If you'd like to make the process quicker, you can add the script to your deskto
 # Decky
 
 Check out [Decky Loader!](https://decky.xyz/)
-
-I hope this helps at least one person out there! Enjoy and thank you for checking this out! ❤️
