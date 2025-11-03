@@ -6,6 +6,8 @@ This script was written by ChatGPT because I have no idea how to code stuff.
 
 All the script does is create a loopback network interface on linux.
 
+Unfortunately it is **NOT** restart persistent so you'll have to re-run the script after every restart of your deck.
+
 # Instructions
 
 1.  Enter Desktop mode.
